@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+ max-width: 480px;
+}
+
+body{
+  max-width: 480px;
+}
+
+.headPic{
+    width: 480px;
+}
+
+.mainContainer{
+   width: 480px;
+}
+.leftColumn {
+    max-width: 61%;
+    background-color: #77855d;
+    border-right: 3px solid white;
+    float:left;
+}
+
+.left-article h3 {
+    color: gold;
+    text-decoration: underline;
+    margin-left: 20px;
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.left-article p{
+    color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.rightColumn{
+    float: right;
+    max-width: 35%;
+    background-color: rgb(46, 139, 170);
+    padding-bottom: 1300px;
+    padding-left: 23px;
+}
+
+.rightColumn li {
+    list-style-type: none;
+}
+
+.rightColumn p {
+    color: white;
+}
+
+.rightColumn h2 {
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.right-article li{
+    font-size: 13px;
+    margin-bottom: 8px;
+    color: white;
+    background-color: rgb(94, 155, 192);
+    margin-right: 10px;
+    margin-left: -10px;
+}
+
+.design-name{
+    color: rgb(15, 185, 241);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.designer-name{
+    color: white;
+    text-decoration: none;
+}
