@@ -3,7 +3,7 @@
 Practiced HTML and CSS by copying design from CSS Zen Garden. Focused on writing semantic HTML and having a well organized CSS. Compare to: http://www.csszengarden.com/131/
 
 ## Screenshots
-![](/screenshots/screenshot.png)
+![](https://raw.githubusercontent.com/leotaylor/css_zengarden_startover/master/screenshots/screenshot.png)
 
 ## How to Run
 1. Clone down this repe and cd into project
